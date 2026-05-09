@@ -1,0 +1,1364 @@
+{
+  "config": {
+    "layer": 17,
+    "width": "65k",
+    "l0": "medium"
+  },
+  "data": [
+    {
+      "tool": "resid_sae",
+      "task": "T1_retrieval_under_interference",
+      "variant": 0,
+      "fvu": 0.007658045738935471,
+      "delta_loss": -0.0625,
+      "l0": 57.73684310913086,
+      "amplification": -8.161351098000624
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 0,
+      "fvu": 0.1065947636961937,
+      "delta_loss": -0.015625,
+      "l0": 82.15789794921875,
+      "amplification": -0.14658318531042383
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 0,
+      "fvu": 0.08154470473527908,
+      "delta_loss": -0.03125,
+      "l0": 72.63157653808594,
+      "amplification": -0.3832253743691607
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T1_retrieval_under_interference",
+      "variant": 1,
+      "fvu": 0.009771930053830147,
+      "delta_loss": -0.15625,
+      "l0": 70.82353210449219,
+      "amplification": -15.989676465066099
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 1,
+      "fvu": 0.13407956063747406,
+      "delta_loss": 0.0,
+      "l0": 90.35294342041016,
+      "amplification": 0.0
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 1,
+      "fvu": 0.0963326245546341,
+      "delta_loss": -0.0625,
+      "l0": 80.23529815673828,
+      "amplification": -0.6487937008770455
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T1_retrieval_under_interference",
+      "variant": 2,
+      "fvu": 0.008986121043562889,
+      "delta_loss": 0.015625,
+      "l0": 61.814815521240234,
+      "amplification": 1.738792513950477
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 2,
+      "fvu": 0.13122659921646118,
+      "delta_loss": -0.03125,
+      "l0": 81.9259262084961,
+      "amplification": -0.23813769606611868
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 2,
+      "fvu": 0.09811840951442719,
+      "delta_loss": -0.03125,
+      "l0": 69.0740737915039,
+      "amplification": -0.3184927288839211
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T1_retrieval_under_interference",
+      "variant": 3,
+      "fvu": 0.0082551846280694,
+      "delta_loss": 0.09375,
+      "l0": 58.14285659790039,
+      "amplification": 11.356499487755835
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 3,
+      "fvu": 0.1012788936495781,
+      "delta_loss": 0.03125,
+      "l0": 84.95238494873047,
+      "amplification": 0.30855392346725324
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 3,
+      "fvu": 0.07946696877479553,
+      "delta_loss": 0.015625,
+      "l0": 77.80952453613281,
+      "amplification": 0.19662257464834582
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T1_retrieval_under_interference",
+      "variant": 4,
+      "fvu": 0.008640176616609097,
+      "delta_loss": 0.09375,
+      "l0": 61.392860412597656,
+      "amplification": 10.850472641934594
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 4,
+      "fvu": 0.09705566614866257,
+      "delta_loss": 0.015625,
+      "l0": 87.03572082519531,
+      "amplification": 0.1609900855872423
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T1_retrieval_under_interference",
+      "variant": 4,
+      "fvu": 0.07072645425796509,
+      "delta_loss": 0.03125,
+      "l0": 77.8214340209961,
+      "amplification": 0.44184315936466845
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T2_multi_entity_tracking",
+      "variant": 0,
+      "fvu": 0.011728910729289055,
+      "delta_loss": 0.125,
+      "l0": 70.16667175292969,
+      "amplification": 10.65742615704748
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 0,
+      "fvu": 0.15418407320976257,
+      "delta_loss": -0.03125,
+      "l0": 83.47917175292969,
+      "amplification": -0.20267981867028095
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 0,
+      "fvu": 0.11347462981939316,
+      "delta_loss": 0.0,
+      "l0": 68.47917175292969,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T2_multi_entity_tracking",
+      "variant": 1,
+      "fvu": 0.010028565302491188,
+      "delta_loss": 0.0625,
+      "l0": 59.05660629272461,
+      "amplification": 6.232197539210761
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 1,
+      "fvu": 0.1272871196269989,
+      "delta_loss": 0.015625,
+      "l0": 80.81132507324219,
+      "amplification": 0.12275397578158236
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 1,
+      "fvu": 0.09533591568470001,
+      "delta_loss": 0.0234375,
+      "l0": 64.20755004882812,
+      "amplification": 0.2458412428482225
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T2_multi_entity_tracking",
+      "variant": 2,
+      "fvu": 0.010974164120852947,
+      "delta_loss": 0.03125,
+      "l0": 67.18182373046875,
+      "amplification": 2.8475972890380965
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 2,
+      "fvu": 0.15002810955047607,
+      "delta_loss": 0.03125,
+      "l0": 85.31818389892578,
+      "amplification": 0.208294299605809
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 2,
+      "fvu": 0.11214610934257507,
+      "delta_loss": 0.0,
+      "l0": 71.54545593261719,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T2_multi_entity_tracking",
+      "variant": 3,
+      "fvu": 0.008452591486275196,
+      "delta_loss": 0.015625,
+      "l0": 60.75,
+      "amplification": 1.848545505289227
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 3,
+      "fvu": 0.13585491478443146,
+      "delta_loss": -0.046875,
+      "l0": 81.7249984741211,
+      "amplification": -0.3450372043910164
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 3,
+      "fvu": 0.1008581817150116,
+      "delta_loss": -0.015625,
+      "l0": 69.75,
+      "amplification": -0.15492050059112256
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T2_multi_entity_tracking",
+      "variant": 4,
+      "fvu": 0.011590753681957722,
+      "delta_loss": 0.203125,
+      "l0": 70.35294342041016,
+      "amplification": 17.524744772739528
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 4,
+      "fvu": 0.16698311269283295,
+      "delta_loss": 0.03125,
+      "l0": 97.76470947265625,
+      "amplification": 0.18714467287170936
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T2_multi_entity_tracking",
+      "variant": 4,
+      "fvu": 0.1264050006866455,
+      "delta_loss": 0.015625,
+      "l0": 85.79412078857422,
+      "amplification": 0.12361061599717832
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T3_inhibition_and_override",
+      "variant": 0,
+      "fvu": 0.009138251654803753,
+      "delta_loss": 0.0078125,
+      "l0": 61.46341323852539,
+      "amplification": 0.8549228337231403
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T3_inhibition_and_override",
+      "variant": 0,
+      "fvu": 0.1229361966252327,
+      "delta_loss": 0.0078125,
+      "l0": 75.41463470458984,
+      "amplification": 0.06354922483746729
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T3_inhibition_and_override",
+      "variant": 0,
+      "fvu": 0.09032567590475082,
+      "delta_loss": 0.0078125,
+      "l0": 63.585365295410156,
+      "amplification": 0.08649257170506364
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T3_inhibition_and_override",
+      "variant": 1,
+      "fvu": 0.009048505686223507,
+      "delta_loss": 0.234375,
+      "l0": 52.54999923706055,
+      "amplification": 25.902066940935853
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T3_inhibition_and_override",
+      "variant": 1,
+      "fvu": 0.14105071127414703,
+      "delta_loss": 0.046875,
+      "l0": 80.95000457763672,
+      "amplification": 0.3323272855313254
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T3_inhibition_and_override",
+      "variant": 1,
+      "fvu": 0.11169120669364929,
+      "delta_loss": 0.015625,
+      "l0": 75.70000457763672,
+      "amplification": 0.1398946296896659
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T3_inhibition_and_override",
+      "variant": 2,
+      "fvu": 0.008330825716257095,
+      "delta_loss": -0.015625,
+      "l0": 57.58620834350586,
+      "amplification": -1.87556438367313
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T3_inhibition_and_override",
+      "variant": 2,
+      "fvu": 0.11658582836389542,
+      "delta_loss": -0.015625,
+      "l0": 88.06896209716797,
+      "amplification": -0.13402143484566764
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T3_inhibition_and_override",
+      "variant": 2,
+      "fvu": 0.09186584502458572,
+      "delta_loss": 0.0,
+      "l0": 80.0,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T3_inhibition_and_override",
+      "variant": 3,
+      "fvu": 0.007556488271802664,
+      "delta_loss": 0.046875,
+      "l0": 57.82857131958008,
+      "amplification": 6.203278336964529
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T3_inhibition_and_override",
+      "variant": 3,
+      "fvu": 0.1250893473625183,
+      "delta_loss": -0.015625,
+      "l0": 75.17143249511719,
+      "amplification": -0.12491071645547544
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T3_inhibition_and_override",
+      "variant": 3,
+      "fvu": 0.09081080555915833,
+      "delta_loss": -0.015625,
+      "l0": 62.74285888671875,
+      "amplification": -0.17206102185517072
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T3_inhibition_and_override",
+      "variant": 4,
+      "fvu": 0.007314944639801979,
+      "delta_loss": -0.09375,
+      "l0": 60.81818389892578,
+      "amplification": -12.816228230886226
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T3_inhibition_and_override",
+      "variant": 4,
+      "fvu": 0.09792055189609528,
+      "delta_loss": -0.03125,
+      "l0": 89.2272720336914,
+      "amplification": -0.31913627318154586
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T3_inhibition_and_override",
+      "variant": 4,
+      "fvu": 0.07592650502920151,
+      "delta_loss": -0.0625,
+      "l0": 81.68182373046875,
+      "amplification": -0.823164453255979
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 0,
+      "fvu": 0.0072507127188146114,
+      "delta_loss": 0.0625,
+      "l0": 56.26923370361328,
+      "amplification": 8.61984227258391
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 0,
+      "fvu": 0.10894296318292618,
+      "delta_loss": 0.03125,
+      "l0": 93.15384674072266,
+      "amplification": 0.28684734733649675
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 0,
+      "fvu": 0.08352828025817871,
+      "delta_loss": 0.0,
+      "l0": 88.5,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 1,
+      "fvu": 0.007214773911982775,
+      "delta_loss": 0.125,
+      "l0": 54.85000228881836,
+      "amplification": 17.325560235836594
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 1,
+      "fvu": 0.10002519190311432,
+      "delta_loss": 0.015625,
+      "l0": 84.8499984741211,
+      "amplification": 0.15621064756501118
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 1,
+      "fvu": 0.07978163659572601,
+      "delta_loss": 0.046875,
+      "l0": 81.5999984741211,
+      "amplification": 0.5875412187584924
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 2,
+      "fvu": 0.006417886819690466,
+      "delta_loss": 0.0625,
+      "l0": 55.03571701049805,
+      "amplification": 9.738407945781502
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 2,
+      "fvu": 0.09407012164592743,
+      "delta_loss": 0.015625,
+      "l0": 82.21428680419922,
+      "amplification": 0.16609949818935366
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 2,
+      "fvu": 0.0736098662018776,
+      "delta_loss": 0.0,
+      "l0": 75.42857360839844,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 3,
+      "fvu": 0.007217393722385168,
+      "delta_loss": 0.03125,
+      "l0": 59.6363639831543,
+      "amplification": 4.329817826492727
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 3,
+      "fvu": 0.10217823833227158,
+      "delta_loss": 0.0625,
+      "l0": 87.86363983154297,
+      "amplification": 0.6116762338058459
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 3,
+      "fvu": 0.07802923768758774,
+      "delta_loss": 0.046875,
+      "l0": 80.40909576416016,
+      "amplification": 0.6007363571547041
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 4,
+      "fvu": 0.006895157042890787,
+      "delta_loss": -0.03125,
+      "l0": 57.82352828979492,
+      "amplification": -4.53216653451282
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 4,
+      "fvu": 0.10086271166801453,
+      "delta_loss": -0.015625,
+      "l0": 91.0,
+      "amplification": -0.1549135427910073
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T4_dangerous_ambiguity",
+      "variant": 4,
+      "fvu": 0.07975064963102341,
+      "delta_loss": -0.015625,
+      "l0": 88.35294342041016,
+      "amplification": -0.19592316893079947
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T5_causal_chains",
+      "variant": 0,
+      "fvu": 0.008207393810153008,
+      "delta_loss": 0.140625,
+      "l0": 57.620689392089844,
+      "amplification": 17.13394084076226
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T5_causal_chains",
+      "variant": 0,
+      "fvu": 0.10730932652950287,
+      "delta_loss": 0.0,
+      "l0": 91.10344696044922,
+      "amplification": 0.0
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T5_causal_chains",
+      "variant": 0,
+      "fvu": 0.08232609182596207,
+      "delta_loss": -0.03125,
+      "l0": 83.89655303955078,
+      "amplification": -0.37958804197899637
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T5_causal_chains",
+      "variant": 1,
+      "fvu": 0.007745697163045406,
+      "delta_loss": 0.015625,
+      "l0": 54.10344696044922,
+      "amplification": 2.017249018532072
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T5_causal_chains",
+      "variant": 1,
+      "fvu": 0.11072796583175659,
+      "delta_loss": 0.0,
+      "l0": 79.75862121582031,
+      "amplification": 0.0
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T5_causal_chains",
+      "variant": 1,
+      "fvu": 0.08627738803625107,
+      "delta_loss": 0.015625,
+      "l0": 72.51724243164062,
+      "amplification": 0.18110191274491136
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T5_causal_chains",
+      "variant": 2,
+      "fvu": 0.007289038505405188,
+      "delta_loss": 0.0625,
+      "l0": 59.91666793823242,
+      "amplification": 8.574519115745254
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T5_causal_chains",
+      "variant": 2,
+      "fvu": 0.09011540561914444,
+      "delta_loss": -0.0625,
+      "l0": 89.54167175292969,
+      "amplification": -0.6935551093688056
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T5_causal_chains",
+      "variant": 2,
+      "fvu": 0.06918259710073471,
+      "delta_loss": -0.046875,
+      "l0": 82.08333587646484,
+      "amplification": -0.6775547892737637
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T5_causal_chains",
+      "variant": 3,
+      "fvu": 0.008115003816783428,
+      "delta_loss": 0.15625,
+      "l0": 60.157894134521484,
+      "amplification": 19.254457980271578
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T5_causal_chains",
+      "variant": 3,
+      "fvu": 0.12310957908630371,
+      "delta_loss": 0.0,
+      "l0": 90.94737243652344,
+      "amplification": 0.0
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T5_causal_chains",
+      "variant": 3,
+      "fvu": 0.09426695108413696,
+      "delta_loss": 0.015625,
+      "l0": 81.13157653808594,
+      "amplification": 0.16575268235899634
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T5_causal_chains",
+      "variant": 4,
+      "fvu": 0.008127818815410137,
+      "delta_loss": 0.09375,
+      "l0": 58.21875,
+      "amplification": 11.534459875293036
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T5_causal_chains",
+      "variant": 4,
+      "fvu": 0.11008673161268234,
+      "delta_loss": 0.0625,
+      "l0": 94.4375,
+      "amplification": 0.567734177265735
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T5_causal_chains",
+      "variant": 4,
+      "fvu": 0.0824301615357399,
+      "delta_loss": 0.0625,
+      "l0": 88.25,
+      "amplification": 0.7582176091320818
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T6_social_subtext",
+      "variant": 0,
+      "fvu": 0.008009186945855618,
+      "delta_loss": 0.3125,
+      "l0": 62.125,
+      "amplification": 39.01769332050668
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T6_social_subtext",
+      "variant": 0,
+      "fvu": 0.11730816960334778,
+      "delta_loss": 0.0,
+      "l0": 88.03125,
+      "amplification": 0.0
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T6_social_subtext",
+      "variant": 0,
+      "fvu": 0.09159715473651886,
+      "delta_loss": 0.03125,
+      "l0": 79.6875,
+      "amplification": 0.34116780253591156
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T6_social_subtext",
+      "variant": 1,
+      "fvu": 0.007879097945988178,
+      "delta_loss": 0.03125,
+      "l0": 63.11764907836914,
+      "amplification": 3.966190065692945
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T6_social_subtext",
+      "variant": 1,
+      "fvu": 0.11424378305673599,
+      "delta_loss": 0.0625,
+      "l0": 82.52941131591797,
+      "amplification": 0.5470757211266465
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T6_social_subtext",
+      "variant": 1,
+      "fvu": 0.08759672939777374,
+      "delta_loss": 0.0625,
+      "l0": 73.94117736816406,
+      "amplification": 0.7134969585016084
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T6_social_subtext",
+      "variant": 2,
+      "fvu": 0.007520090322941542,
+      "delta_loss": 0.125,
+      "l0": 53.648651123046875,
+      "amplification": 16.622140776509355
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T6_social_subtext",
+      "variant": 2,
+      "fvu": 0.10746895521879196,
+      "delta_loss": 0.015625,
+      "l0": 75.78378295898438,
+      "amplification": 0.14539082443101503
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T6_social_subtext",
+      "variant": 2,
+      "fvu": 0.0811726525425911,
+      "delta_loss": 0.0,
+      "l0": 68.70270538330078,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T6_social_subtext",
+      "variant": 3,
+      "fvu": 0.007085191551595926,
+      "delta_loss": 0.0625,
+      "l0": 57.272727966308594,
+      "amplification": 8.821215283293505
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T6_social_subtext",
+      "variant": 3,
+      "fvu": 0.09888312965631485,
+      "delta_loss": 0.046875,
+      "l0": 82.42424774169922,
+      "amplification": 0.4740444620120949
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T6_social_subtext",
+      "variant": 3,
+      "fvu": 0.07435289025306702,
+      "delta_loss": 0.015625,
+      "l0": 75.81818389892578,
+      "amplification": 0.21014650468621798
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T6_social_subtext",
+      "variant": 4,
+      "fvu": 0.007447937969118357,
+      "delta_loss": 0.015625,
+      "l0": 53.78378677368164,
+      "amplification": 2.09789609752209
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T6_social_subtext",
+      "variant": 4,
+      "fvu": 0.11506088823080063,
+      "delta_loss": 0.015625,
+      "l0": 80.10810852050781,
+      "amplification": 0.13579766539484567
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T6_social_subtext",
+      "variant": 4,
+      "fvu": 0.08909595012664795,
+      "delta_loss": 0.03125,
+      "l0": 75.43243408203125,
+      "amplification": 0.3507454598730785
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T7_deception_tracking",
+      "variant": 0,
+      "fvu": 0.007947397418320179,
+      "delta_loss": 0.0625,
+      "l0": 59.487178802490234,
+      "amplification": 7.86420971674655
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T7_deception_tracking",
+      "variant": 0,
+      "fvu": 0.11987665295600891,
+      "delta_loss": -0.015625,
+      "l0": 90.33333587646484,
+      "amplification": -0.13034231115656775
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T7_deception_tracking",
+      "variant": 0,
+      "fvu": 0.09269076585769653,
+      "delta_loss": -0.03125,
+      "l0": 82.02564239501953,
+      "amplification": -0.33714253745595923
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T7_deception_tracking",
+      "variant": 1,
+      "fvu": 0.008321127854287624,
+      "delta_loss": 0.140625,
+      "l0": 59.55263137817383,
+      "amplification": 16.899752348780485
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T7_deception_tracking",
+      "variant": 1,
+      "fvu": 0.11589731276035309,
+      "delta_loss": 0.03125,
+      "l0": 84.86842346191406,
+      "amplification": 0.26963524223048424
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T7_deception_tracking",
+      "variant": 1,
+      "fvu": 0.08563324809074402,
+      "delta_loss": 0.03125,
+      "l0": 75.7631607055664,
+      "amplification": 0.36492835080697783
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T7_deception_tracking",
+      "variant": 2,
+      "fvu": 0.007911945693194866,
+      "delta_loss": 0.046875,
+      "l0": 61.076927185058594,
+      "amplification": 5.924585660429596
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T7_deception_tracking",
+      "variant": 2,
+      "fvu": 0.11621376872062683,
+      "delta_loss": -0.015625,
+      "l0": 84.76923370361328,
+      "amplification": -0.13445050592552302
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T7_deception_tracking",
+      "variant": 2,
+      "fvu": 0.08934292197227478,
+      "delta_loss": 0.0,
+      "l0": 73.98077392578125,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T7_deception_tracking",
+      "variant": 3,
+      "fvu": 0.008380286395549774,
+      "delta_loss": 0.0,
+      "l0": 58.43589782714844,
+      "amplification": 0.0
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T7_deception_tracking",
+      "variant": 3,
+      "fvu": 0.11865135282278061,
+      "delta_loss": 0.015625,
+      "l0": 89.38461303710938,
+      "amplification": 0.13168834259595613
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T7_deception_tracking",
+      "variant": 3,
+      "fvu": 0.09039554744958878,
+      "delta_loss": 0.015625,
+      "l0": 80.33333587646484,
+      "amplification": 0.17285143395711666
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T7_deception_tracking",
+      "variant": 4,
+      "fvu": 0.008576898835599422,
+      "delta_loss": 0.109375,
+      "l0": 54.80000305175781,
+      "amplification": 12.752278194774346
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T7_deception_tracking",
+      "variant": 4,
+      "fvu": 0.12670785188674927,
+      "delta_loss": 0.046875,
+      "l0": 86.80000305175781,
+      "amplification": 0.3699455029976879
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T7_deception_tracking",
+      "variant": 4,
+      "fvu": 0.09942099452018738,
+      "delta_loss": -0.015625,
+      "l0": 78.64444732666016,
+      "amplification": -0.1571599648083117
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 0,
+      "fvu": 0.007020554970949888,
+      "delta_loss": 0.109375,
+      "l0": 54.02702713012695,
+      "amplification": 15.579252701898787
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 0,
+      "fvu": 0.10712401568889618,
+      "delta_loss": -0.015625,
+      "l0": 73.72972869873047,
+      "amplification": -0.14585898315628204
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 0,
+      "fvu": 0.08018598705530167,
+      "delta_loss": -0.03125,
+      "l0": 65.89189147949219,
+      "amplification": -0.38971896646290444
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 1,
+      "fvu": 0.008504658006131649,
+      "delta_loss": 0.0,
+      "l0": 63.977779388427734,
+      "amplification": 0.0
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 1,
+      "fvu": 0.12202304601669312,
+      "delta_loss": 0.015625,
+      "l0": 97.24444580078125,
+      "amplification": 0.12804958169838224
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 1,
+      "fvu": 0.09403058886528015,
+      "delta_loss": -0.015625,
+      "l0": 89.04444885253906,
+      "amplification": -0.16616933051845828
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 2,
+      "fvu": 0.007875883020460606,
+      "delta_loss": 0.109375,
+      "l0": 58.6363639831543,
+      "amplification": 13.8873317081852
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 2,
+      "fvu": 0.10989348590373993,
+      "delta_loss": 0.046875,
+      "l0": 92.09091186523438,
+      "amplification": 0.4265493956671797
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 2,
+      "fvu": 0.08407711237668991,
+      "delta_loss": 0.0,
+      "l0": 84.06818389892578,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 3,
+      "fvu": 0.007836296223104,
+      "delta_loss": 0.046875,
+      "l0": 57.76315689086914,
+      "amplification": 5.981779997264136
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 3,
+      "fvu": 0.1149839535355568,
+      "delta_loss": 0.03125,
+      "l0": 81.2368392944336,
+      "amplification": 0.2717770527027189
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 3,
+      "fvu": 0.08585367351770401,
+      "delta_loss": 0.015625,
+      "l0": 70.81578826904297,
+      "amplification": 0.18199570687884364
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 4,
+      "fvu": 0.008157212287187576,
+      "delta_loss": 0.0625,
+      "l0": 57.239131927490234,
+      "amplification": 7.661931282353398
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 4,
+      "fvu": 0.11599066108465195,
+      "delta_loss": -0.03125,
+      "l0": 89.43478393554688,
+      "amplification": -0.26941824201858133
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T8_safety_helpfulness_tension",
+      "variant": 4,
+      "fvu": 0.08905769139528275,
+      "delta_loss": -0.015625,
+      "l0": 81.58695983886719,
+      "amplification": -0.17544806916954994
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T9_self_model_probing",
+      "variant": 0,
+      "fvu": 0.007560273166745901,
+      "delta_loss": -0.015625,
+      "l0": 49.16128921508789,
+      "amplification": -2.066724264505025
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T9_self_model_probing",
+      "variant": 0,
+      "fvu": 0.10850141197443008,
+      "delta_loss": 0.046875,
+      "l0": 86.3548355102539,
+      "amplification": 0.43202202761238506
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T9_self_model_probing",
+      "variant": 0,
+      "fvu": 0.08324221521615982,
+      "delta_loss": 0.046875,
+      "l0": 79.0,
+      "amplification": 0.5631157205304665
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T9_self_model_probing",
+      "variant": 1,
+      "fvu": 0.007563237100839615,
+      "delta_loss": 0.125,
+      "l0": 58.54166793823242,
+      "amplification": 16.527314737511457
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T9_self_model_probing",
+      "variant": 1,
+      "fvu": 0.10658802837133408,
+      "delta_loss": 0.03125,
+      "l0": 92.79167175292969,
+      "amplification": 0.29318489587902363
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T9_self_model_probing",
+      "variant": 1,
+      "fvu": 0.08062704652547836,
+      "delta_loss": 0.015625,
+      "l0": 84.45833587646484,
+      "amplification": 0.1937935305004935
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T9_self_model_probing",
+      "variant": 2,
+      "fvu": 0.00653063366189599,
+      "delta_loss": 0.25,
+      "l0": 52.0625,
+      "amplification": 38.28112445790128
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T9_self_model_probing",
+      "variant": 2,
+      "fvu": 0.08377852290868759,
+      "delta_loss": 0.03125,
+      "l0": 72.25,
+      "amplification": 0.373007292502163
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T9_self_model_probing",
+      "variant": 2,
+      "fvu": 0.06395433098077774,
+      "delta_loss": 0.03125,
+      "l0": 65.0,
+      "amplification": 0.4886299257730109
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T9_self_model_probing",
+      "variant": 3,
+      "fvu": 0.00725926598533988,
+      "delta_loss": 0.078125,
+      "l0": 57.07143020629883,
+      "amplification": 10.7621073752875
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T9_self_model_probing",
+      "variant": 3,
+      "fvu": 0.09361278265714645,
+      "delta_loss": 0.0625,
+      "l0": 90.21428680419922,
+      "amplification": 0.6676438647156133
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T9_self_model_probing",
+      "variant": 3,
+      "fvu": 0.06955008953809738,
+      "delta_loss": 0.046875,
+      "l0": 80.64286041259766,
+      "amplification": 0.673974689483661
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T9_self_model_probing",
+      "variant": 4,
+      "fvu": 0.006742317695170641,
+      "delta_loss": 0.015625,
+      "l0": 59.500003814697266,
+      "amplification": 2.317452351910354
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T9_self_model_probing",
+      "variant": 4,
+      "fvu": 0.09062238782644272,
+      "delta_loss": 0.09375,
+      "l0": 86.26923370361328,
+      "amplification": 1.0345125773947514
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T9_self_model_probing",
+      "variant": 4,
+      "fvu": 0.07013805210590363,
+      "delta_loss": 0.03125,
+      "l0": 72.34615325927734,
+      "amplification": 0.4455498700308166
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 0,
+      "fvu": 0.008858006447553635,
+      "delta_loss": -0.03125,
+      "l0": 53.85000228881836,
+      "amplification": -3.5278818304123596
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 0,
+      "fvu": 0.10853639990091324,
+      "delta_loss": -0.078125,
+      "l0": 87.3499984741211,
+      "amplification": -0.7198046007728569
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 0,
+      "fvu": 0.08778277039527893,
+      "delta_loss": 0.0,
+      "l0": 85.9000015258789,
+      "amplification": 0.0
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 1,
+      "fvu": 0.006807751953601837,
+      "delta_loss": 0.21875,
+      "l0": 48.67857360839844,
+      "amplification": 32.132486831319405
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 1,
+      "fvu": 0.09186932444572449,
+      "delta_loss": -0.015625,
+      "l0": 66.92857360839844,
+      "amplification": -0.17007853376815782
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 1,
+      "fvu": 0.06887546926736832,
+      "delta_loss": 0.015625,
+      "l0": 61.82143020629883,
+      "amplification": 0.22685870842266306
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 2,
+      "fvu": 0.008843870833516121,
+      "delta_loss": -0.125,
+      "l0": 54.72727584838867,
+      "amplification": -14.134082502231985
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 2,
+      "fvu": 0.1418665647506714,
+      "delta_loss": 0.0,
+      "l0": 76.2727279663086,
+      "amplification": 0.0
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 2,
+      "fvu": 0.09871236979961395,
+      "delta_loss": -0.03125,
+      "l0": 74.36363983154297,
+      "amplification": -0.31657633246408207
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 3,
+      "fvu": 0.008891290985047817,
+      "delta_loss": 0.078125,
+      "l0": 54.22727584838867,
+      "amplification": 8.786688022175875
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 3,
+      "fvu": 0.10975293070077896,
+      "delta_loss": -0.046875,
+      "l0": 82.09091186523438,
+      "amplification": -0.4270956565870301
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 3,
+      "fvu": 0.08354578167200089,
+      "delta_loss": -0.03125,
+      "l0": 79.95454406738281,
+      "amplification": -0.3740464135303311
+    },
+    {
+      "tool": "resid_sae",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 4,
+      "fvu": 0.00954629946500063,
+      "delta_loss": 0.140625,
+      "l0": 49.41666793823242,
+      "amplification": 14.730838951320361
+    },
+    {
+      "tool": "transcoder_noskip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 4,
+      "fvu": 0.10716487467288971,
+      "delta_loss": 0.0625,
+      "l0": 78.25,
+      "amplification": 0.5832134847427866
+    },
+    {
+      "tool": "transcoder_skip",
+      "task": "T10_calibrated_uncertainty",
+      "variant": 4,
+      "fvu": 0.0860276073217392,
+      "delta_loss": 0.0,
+      "l0": 75.83333587646484,
+      "amplification": 0.0
+    }
+  ],
+  "_metadata": {
+    "saved_at": "2026-05-09T01:01:44.346456",
+    "gpu": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+    "gpu_memory_gb": 1.8937950134277344
+  }
+}
