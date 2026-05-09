@@ -19,7 +19,7 @@ KNOWN ISSUES (to fix on vast.ai):
 """
 
 import sys
-sys.path.insert(0, "/mnt/storage/sandeep/priyansh/Gemma-Scope-2-Study")
+sys.path.insert(0, "/workspace/Gemma-Scope-2-Study")
 
 import torch
 import numpy as np

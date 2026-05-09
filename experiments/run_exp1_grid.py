@@ -19,7 +19,7 @@ import os
 import argparse
 import time
 
-sys.path.insert(0, "/mnt/storage/sandeep/priyansh/Gemma-Scope-2-Study")
+sys.path.insert(0, "/workspace/Gemma-Scope-2-Study")
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import torch
@@ -48,7 +48,7 @@ def main():
     CACHE = os.path.join(ROOT, "Gemma-Scope-2-Study", "cache")
     # Fallback if submodule cache doesn't exist
     if not os.path.exists(CACHE):
-        CACHE = "/mnt/storage/sandeep/priyansh/Gemma-Scope-2-Study/cache"
+        CACHE = "/workspace/Gemma-Scope-2-Study/cache"
     OUT = os.path.join(ROOT, "outputs")
     FIG = os.path.join(ROOT, "figures")
     os.makedirs(OUT, exist_ok=True)
